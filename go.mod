@@ -1,6 +1,3 @@
-module github.com/rmullinnix461332/jenkins-jira
+module github.com/rmullinnix461332/logger
 
 go 1.15
-
-require (
-)
